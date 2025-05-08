@@ -1,3 +1,5 @@
+NAME:- SACHIN RAJESH PAL
+REG NO.:- RA2211027010061
 Real-Time QoS Optimization for Game Streaming Platforms 
 
 With the rise of live game streaming platforms like Twitch and YouTube Gaming, it's becoming harder to keep stream quality consistent. Network conditions change, viewer engagement fluctuates, and streams can vary in quality. Traditional methods of managing QoS (Quality of Service) often don't react fast enough to these dynamic situations.
